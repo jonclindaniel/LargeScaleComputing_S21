@@ -6,7 +6,7 @@
 | Jon Clindaniel               | Yongfei Lu              | Luxin Tian             | Location: [Online](https://canvas.uchicago.edu/courses/34598)   |
 | 1155 E. 60th Street, Rm. 215 |                         |                        | Monday/Wednesday       |
 | jclindaniel@uchicago.edu     | yongfeilu@uchicago.edu | luxintian@uchicago.edu | 9:10-11:10 AM (CDT)  |
-| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](link)\* | **Office Hours:** [Schedule](https://appoint.ly/s/luxintian/macs30123)\*| **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/34598) |
+| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/yongfeilu/20-min)\* | **Office Hours:** [Schedule](https://appoint.ly/s/luxintian/macs30123)\*| **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/34598) |
 
 \* Office Hours held via Zoom
 
