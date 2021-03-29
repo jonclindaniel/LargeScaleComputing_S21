@@ -32,6 +32,19 @@ There will be an assignment due at the end of each unit (3 in total). Each assig
 | Final Project            | 5% (Presentation) |
 |                          | 25% (Project)     |
 
+Grades are not curved in this class or, at least, not in the traditional sense. We use a standard set of grade boundaries:
+* 95-100: A
+* 90-95: A-
+* 85-90: B+
+* 80-85: B
+* 75-80: B-
+* 70-75: C+
+* <70: Dealt on a case-by-case basis
+
+We curve only to the extent we might lower the boundaries for one or more letter grades, depending on the distribution of the raw scores. We will not raise the boundaries in response to the distribution.
+
+So, for example, if you have a total score of 82 in the course, you are guaranteed to get, at least, a B (but may potentially get a higher grade if the boundary for a B+ is lowered).
+
 ## Final Project
 For their final project (due June 4th, 2021), students will write large-scale computing code that solves a social science research problem of their choosing. For instance, students might perform a computationally intensive demographic simulation, or they may choose to collect, analyze, and visualize large, streaming social media data, or do something else that employs large-scale computing strategies. Students will additionally record a short video presentation about their project. Detailed descriptions and grading rubrics for the project and presentation are available [on the Canvas course site.](https://canvas.uchicago.edu/courses/34598)
 
