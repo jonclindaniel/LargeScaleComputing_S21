@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>MACS 30123 Scores</h1>
+    <table>
+      <tr>
+        <th>Assignment</th>
+        <th>Score</th>
+      </tr>
+      {% for assignment in assignments %}
+      <tr>
+        <td> {{ assignment['name'] }} </td>
+        <td> {{ assignment['score'] }} </td>
+      </tr>
+      {% endfor %}
+      </table>
+      <p> Your average score is {{ avg }}% </p>
+{% endblock %}

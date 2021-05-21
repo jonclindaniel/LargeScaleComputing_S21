@@ -1,0 +1,14 @@
+<html>
+    <head>
+      {% if student['name'] %}
+      <title>{{ student['name'] }}'s Scores</title>
+      {% else %}
+      <title>MACS 30123 Scores</title>
+      {% endif %}
+    </head>
+    <body>
+        <div><a href="/">Home</a></div>
+        <hr>
+        {% block content %}{% endblock %}
+    </body>
+</html>
